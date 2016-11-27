@@ -119,17 +119,17 @@ Thank you @marcypetro and @chrisjlebron
 
 
 ###### Exact commands for Stern Presentation
-`cd Desktop`
-`mkdir git_folders`
-If you have homebrew installed then do the following
-`brew install git`
-If not, install homebrew first
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- `cd Desktop`
+- `mkdir git_folders`
+- If you have homebrew installed then do the following
+  - `brew install git`
+- If not, install homebrew first:
+ - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
  - Put in password for sudo computer
  - `cd git_folders`
  - `brew install git`
- - go to github.com 
+ - go to github.com
  - Create account
  - `git clone name_of_cloned_folder`
  - If going via command line, need to sync ssh keys. Follow directions on github
