@@ -143,3 +143,5 @@ Thank you @marcypetro and @chrisjlebron
    - `git commit -m 'commit message'`
    - `git push origin new_my_name_branch` If you have permissions to merge this to master as collaborator
  - Else go through Github Desktop
+
+ yael 
